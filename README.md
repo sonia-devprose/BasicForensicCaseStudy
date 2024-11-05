@@ -22,3 +22,6 @@ This repository provides a basic Python script demonstrating a forensic case man
 * **Output and Display:**
   - Print statements for case summaries and calculated values
   - Formatted output using f-strings
+ 
+  ![Screenshot 2024-11-06 012746](https://github.com/user-attachments/assets/c8bfbf57-6619-4d5f-b651-9f17668820d4)
+
