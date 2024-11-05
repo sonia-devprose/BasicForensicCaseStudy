@@ -1,6 +1,4 @@
 # BasicForensicCaseStudy
-Forensic Case Management Model
-**Here's a GitHub description for your forensic case management model:**
 
 **Forensic Case Management Model**
 
